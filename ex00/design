@@ -1,6 +1,0 @@
-1.parse
-2.isvalid
-3.convert
-
-convert内部
-jpegファイルであれば、ConvertJPEGToPNGを呼び出し変換
